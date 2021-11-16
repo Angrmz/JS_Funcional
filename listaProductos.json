@@ -1,0 +1,722 @@
+[
+{
+     "id": "a384",
+     "descripcion": "",
+     "precio": 887,
+     "clasificacion": "verduras",
+     "cant_existencia": 916,
+     "exist_min": 294,
+     "exist_max": 835
+},
+{
+     "id": "a387",
+     "descripcion": "",
+     "precio": 493,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 422,
+     "exist_min": 363,
+     "exist_max": 527
+},
+{
+     "id": "a691",
+     "descripcion": "",
+     "precio": 60,
+     "clasificacion": "frutas",
+     "cant_existencia": 927,
+     "exist_min": 41,
+     "exist_max": 926
+},
+{
+     "id": "a173",
+     "descripcion": "",
+     "precio": 737,
+     "clasificacion": "higiene",
+     "cant_existencia": 369,
+     "exist_min": 68,
+     "exist_max": 929
+},
+{
+     "id": "a783",
+     "descripcion": "",
+     "precio": 531,
+     "clasificacion": "verduras",
+     "cant_existencia": 124,
+     "exist_min": 68,
+     "exist_max": 635
+},
+{
+     "id": "a930",
+     "descripcion": "",
+     "precio": 803,
+     "clasificacion": "verduras",
+     "cant_existencia": 59,
+     "exist_min": 70,
+     "exist_max": 667
+},
+{
+     "id": "a394",
+     "descripcion": "",
+     "precio": 457,
+     "clasificacion": "higiene",
+     "cant_existencia": 43,
+     "exist_min": 230,
+     "exist_max": 873
+},
+{
+     "id": "a422",
+     "descripcion": "",
+     "precio": 920,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 538,
+     "exist_min": 199,
+     "exist_max": 824
+},
+{
+     "id": "a316",
+     "descripcion": "",
+     "precio": 371,
+     "clasificacion": "frutas",
+     "cant_existencia": 527,
+     "exist_min": 92,
+     "exist_max": 1480
+},
+{
+     "id": "a957",
+     "descripcion": "",
+     "precio": 874,
+     "clasificacion": "verduras",
+     "cant_existencia": 171,
+     "exist_min": 497,
+     "exist_max": 781
+},
+{
+     "id": "a306",
+     "descripcion": "",
+     "precio": 926,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 328,
+     "exist_min": 337,
+     "exist_max": 1005
+},
+{
+     "id": "a847",
+     "descripcion": "",
+     "precio": 730,
+     "clasificacion": "frutas",
+     "cant_existencia": 858,
+     "exist_min": 125,
+     "exist_max": 1395
+},
+{
+     "id": "a583",
+     "descripcion": "",
+     "precio": 546,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 368,
+     "exist_min": 435,
+     "exist_max": 864
+},
+{
+     "id": "a44",
+     "descripcion": "",
+     "precio": 751,
+     "clasificacion": "verduras",
+     "cant_existencia": 809,
+     "exist_min": 277,
+     "exist_max": 678
+},
+{
+     "id": "a789",
+     "descripcion": "",
+     "precio": 585,
+     "clasificacion": "frutas",
+     "cant_existencia": 652,
+     "exist_min": 255,
+     "exist_max": 899
+},
+{
+     "id": "a933",
+     "descripcion": "",
+     "precio": 61,
+     "clasificacion": "higiene",
+     "cant_existencia": 369,
+     "exist_min": 240,
+     "exist_max": 512
+},
+{
+     "id": "a227",
+     "descripcion": "",
+     "precio": 587,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 540,
+     "exist_min": 296,
+     "exist_max": 1070
+},
+{
+     "id": "a435",
+     "descripcion": "",
+     "precio": 379,
+     "clasificacion": "verduras",
+     "cant_existencia": 602,
+     "exist_min": 98,
+     "exist_max": 1402
+},
+{
+     "id": "a318",
+     "descripcion": "",
+     "precio": 493,
+     "clasificacion": "verduras",
+     "cant_existencia": 757,
+     "exist_min": 302,
+     "exist_max": 780
+},
+{
+     "id": "a287",
+     "descripcion": "",
+     "precio": 442,
+     "clasificacion": "limpieza",
+     "cant_existencia": 690,
+     "exist_min": 445,
+     "exist_max": 1119
+},
+{
+     "id": "a441",
+     "descripcion": "",
+     "precio": 730,
+     "clasificacion": "higiene",
+     "cant_existencia": 118,
+     "exist_min": 98,
+     "exist_max": 1271
+},
+{
+     "id": "a482",
+     "descripcion": "",
+     "precio": 676,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 928,
+     "exist_min": 68,
+     "exist_max": 1356
+},
+{
+     "id": "a498",
+     "descripcion": "",
+     "precio": 354,
+     "clasificacion": "higiene",
+     "cant_existencia": 966,
+     "exist_min": 307,
+     "exist_max": 1183
+},
+{
+     "id": "a220",
+     "descripcion": "",
+     "precio": 625,
+     "clasificacion": "frutas",
+     "cant_existencia": 872,
+     "exist_min": 233,
+     "exist_max": 1329
+},
+{
+     "id": "a504",
+     "descripcion": "",
+     "precio": 20,
+     "clasificacion": "limpieza",
+     "cant_existencia": 369,
+     "exist_min": 209,
+     "exist_max": 1215
+},
+{
+     "id": "a341",
+     "descripcion": "",
+     "precio": 150,
+     "clasificacion": "higiene",
+     "cant_existencia": 724,
+     "exist_min": 119,
+     "exist_max": 745
+},
+{
+     "id": "a847",
+     "descripcion": "",
+     "precio": 452,
+     "clasificacion": "higiene",
+     "cant_existencia": 556,
+     "exist_min": 380,
+     "exist_max": 988
+},
+{
+     "id": "a765",
+     "descripcion": "",
+     "precio": 229,
+     "clasificacion": "higiene",
+     "cant_existencia": 351,
+     "exist_min": 194,
+     "exist_max": 1000
+},
+{
+     "id": "a35",
+     "descripcion": "",
+     "precio": 765,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 915,
+     "exist_min": 488,
+     "exist_max": 1356
+},
+{
+     "id": "a744",
+     "descripcion": "",
+     "precio": 492,
+     "clasificacion": "verduras",
+     "cant_existencia": 366,
+     "exist_min": 360,
+     "exist_max": 1436
+},
+{
+     "id": "a433",
+     "descripcion": "",
+     "precio": 552,
+     "clasificacion": "verduras",
+     "cant_existencia": 229,
+     "exist_min": 276,
+     "exist_max": 907
+},
+{
+     "id": "a475",
+     "descripcion": "",
+     "precio": 122,
+     "clasificacion": "frutas",
+     "cant_existencia": 396,
+     "exist_min": 30,
+     "exist_max": 737
+},
+{
+     "id": "a236",
+     "descripcion": "",
+     "precio": 794,
+     "clasificacion": "frutas",
+     "cant_existencia": 429,
+     "exist_min": 144,
+     "exist_max": 511
+},
+{
+     "id": "a929",
+     "descripcion": "",
+     "precio": 530,
+     "clasificacion": "higiene",
+     "cant_existencia": 405,
+     "exist_min": 444,
+     "exist_max": 1263
+},
+{
+     "id": "a614",
+     "descripcion": "",
+     "precio": 539,
+     "clasificacion": "higiene",
+     "cant_existencia": 841,
+     "exist_min": 405,
+     "exist_max": 1318
+},
+{
+     "id": "a129",
+     "descripcion": "",
+     "precio": 689,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 918,
+     "exist_min": 418,
+     "exist_max": 1496
+},
+{
+     "id": "a325",
+     "descripcion": "",
+     "precio": 744,
+     "clasificacion": "limpieza",
+     "cant_existencia": 184,
+     "exist_min": 491,
+     "exist_max": 999
+},
+{
+     "id": "a773",
+     "descripcion": "",
+     "precio": 726,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 591,
+     "exist_min": 6,
+     "exist_max": 639
+},
+{
+     "id": "a955",
+     "descripcion": "",
+     "precio": 787,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 83,
+     "exist_min": 43,
+     "exist_max": 964
+},
+{
+     "id": "a198",
+     "descripcion": "",
+     "precio": 508,
+     "clasificacion": "limpieza",
+     "cant_existencia": 805,
+     "exist_min": 349,
+     "exist_max": 1111
+},
+{
+     "id": "a623",
+     "descripcion": "",
+     "precio": 829,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 344,
+     "exist_min": 247,
+     "exist_max": 1068
+},
+{
+     "id": "a341",
+     "descripcion": "",
+     "precio": 423,
+     "clasificacion": "higiene",
+     "cant_existencia": 811,
+     "exist_min": 106,
+     "exist_max": 1301
+},
+{
+     "id": "a662",
+     "descripcion": "",
+     "precio": 731,
+     "clasificacion": "frutas",
+     "cant_existencia": 306,
+     "exist_min": 321,
+     "exist_max": 1236
+},
+{
+     "id": "a445",
+     "descripcion": "",
+     "precio": 627,
+     "clasificacion": "verduras",
+     "cant_existencia": 466,
+     "exist_min": 209,
+     "exist_max": 916
+},
+{
+     "id": "a283",
+     "descripcion": "",
+     "precio": 259,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 638,
+     "exist_min": 63,
+     "exist_max": 1124
+},
+{
+     "id": "a601",
+     "descripcion": "",
+     "precio": 37,
+     "clasificacion": "verduras",
+     "cant_existencia": 900,
+     "exist_min": 380,
+     "exist_max": 1050
+},
+{
+     "id": "a469",
+     "descripcion": "",
+     "precio": 72,
+     "clasificacion": "frutas",
+     "cant_existencia": 132,
+     "exist_min": 382,
+     "exist_max": 1430
+},
+{
+     "id": "a934",
+     "descripcion": "",
+     "precio": 895,
+     "clasificacion": "limpieza",
+     "cant_existencia": 164,
+     "exist_min": 200,
+     "exist_max": 1481
+},
+{
+     "id": "a900",
+     "descripcion": "",
+     "precio": 997,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 774,
+     "exist_min": 314,
+     "exist_max": 1168
+},
+{
+     "id": "a191",
+     "descripcion": "",
+     "precio": 96,
+     "clasificacion": "higiene",
+     "cant_existencia": 467,
+     "exist_min": 85,
+     "exist_max": 840
+},
+{
+     "id": "a91",
+     "descripcion": "",
+     "precio": 685,
+     "clasificacion": "higiene",
+     "cant_existencia": 543,
+     "exist_min": 437,
+     "exist_max": 607
+},
+{
+     "id": "a446",
+     "descripcion": "",
+     "precio": 757,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 419,
+     "exist_min": 388,
+     "exist_max": 912
+},
+{
+     "id": "a349",
+     "descripcion": "",
+     "precio": 173,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 10,
+     "exist_min": 337,
+     "exist_max": 710
+},
+{
+     "id": "a343",
+     "descripcion": "",
+     "precio": 588,
+     "clasificacion": "higiene",
+     "cant_existencia": 302,
+     "exist_min": 214,
+     "exist_max": 872
+},
+{
+     "id": "a322",
+     "descripcion": "",
+     "precio": 256,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 600,
+     "exist_min": 222,
+     "exist_max": 1404
+},
+{
+     "id": "a940",
+     "descripcion": "",
+     "precio": 812,
+     "clasificacion": "limpieza",
+     "cant_existencia": 668,
+     "exist_min": 206,
+     "exist_max": 728
+},
+{
+     "id": "a128",
+     "descripcion": "",
+     "precio": 151,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 659,
+     "exist_min": 421,
+     "exist_max": 724
+},
+{
+     "id": "a423",
+     "descripcion": "",
+     "precio": 270,
+     "clasificacion": "higiene",
+     "cant_existencia": 82,
+     "exist_min": 131,
+     "exist_max": 584
+},
+{
+     "id": "a293",
+     "descripcion": "",
+     "precio": 973,
+     "clasificacion": "verduras",
+     "cant_existencia": 851,
+     "exist_min": 126,
+     "exist_max": 885
+},
+{
+     "id": "a223",
+     "descripcion": "",
+     "precio": 300,
+     "clasificacion": "limpieza",
+     "cant_existencia": 43,
+     "exist_min": 399,
+     "exist_max": 1213
+},
+{
+     "id": "a299",
+     "descripcion": "",
+     "precio": 191,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 591,
+     "exist_min": 210,
+     "exist_max": 1081
+},
+{
+     "id": "a820",
+     "descripcion": "",
+     "precio": 337,
+     "clasificacion": "verduras",
+     "cant_existencia": 156,
+     "exist_min": 495,
+     "exist_max": 504
+},
+{
+     "id": "a380",
+     "descripcion": "",
+     "precio": 770,
+     "clasificacion": "frutas",
+     "cant_existencia": 777,
+     "exist_min": 351,
+     "exist_max": 755
+},
+{
+     "id": "a861",
+     "descripcion": "",
+     "precio": 143,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 885,
+     "exist_min": 494,
+     "exist_max": 705
+},
+{
+     "id": "a622",
+     "descripcion": "",
+     "precio": 568,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 614,
+     "exist_min": 462,
+     "exist_max": 1254
+},
+{
+     "id": "a327",
+     "descripcion": "",
+     "precio": 260,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 203,
+     "exist_min": 203,
+     "exist_max": 1006
+},
+{
+     "id": "a785",
+     "descripcion": "",
+     "precio": 22,
+     "clasificacion": "verduras",
+     "cant_existencia": 869,
+     "exist_min": 29,
+     "exist_max": 689
+},
+{
+     "id": "a873",
+     "descripcion": "",
+     "precio": 909,
+     "clasificacion": "frutas",
+     "cant_existencia": 499,
+     "exist_min": 37,
+     "exist_max": 1308
+},
+{
+     "id": "a754",
+     "descripcion": "",
+     "precio": 249,
+     "clasificacion": "frutas",
+     "cant_existencia": 334,
+     "exist_min": 134,
+     "exist_max": 1148
+},
+{
+     "id": "a891",
+     "descripcion": "",
+     "precio": 755,
+     "clasificacion": "verduras",
+     "cant_existencia": 747,
+     "exist_min": 369,
+     "exist_max": 1029
+},
+{
+     "id": "a501",
+     "descripcion": "",
+     "precio": 47,
+     "clasificacion": "frutas",
+     "cant_existencia": 798,
+     "exist_min": 250,
+     "exist_max": 1490
+},
+{
+     "id": "a304",
+     "descripcion": "",
+     "precio": 34,
+     "clasificacion": "frutas",
+     "cant_existencia": 498,
+     "exist_min": 254,
+     "exist_max": 1392
+},
+{
+     "id": "a687",
+     "descripcion": "",
+     "precio": 126,
+     "clasificacion": "verduras",
+     "cant_existencia": 997,
+     "exist_min": 476,
+     "exist_max": 688
+},
+{
+     "id": "a158",
+     "descripcion": "",
+     "precio": 730,
+     "clasificacion": "higiene",
+     "cant_existencia": 461,
+     "exist_min": 415,
+     "exist_max": 1421
+},
+{
+     "id": "a461",
+     "descripcion": "",
+     "precio": 305,
+     "clasificacion": "frutas",
+     "cant_existencia": 28,
+     "exist_min": 51,
+     "exist_max": 1248
+},
+{
+     "id": "a557",
+     "descripcion": "",
+     "precio": 903,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 698,
+     "exist_min": 200,
+     "exist_max": 543
+},
+{
+     "id": "a40",
+     "descripcion": "",
+     "precio": 3,
+     "clasificacion": "frutas",
+     "cant_existencia": 404,
+     "exist_min": 1,
+     "exist_max": 1181
+},
+{
+     "id": "a648",
+     "descripcion": "",
+     "precio": 539,
+     "clasificacion": "aperitivos",
+     "cant_existencia": 152,
+     "exist_min": 36,
+     "exist_max": 634
+},
+{
+     "id": "a340",
+     "descripcion": "",
+     "precio": 693,
+     "clasificacion": "limpieza",
+     "cant_existencia": 128,
+     "exist_min": 5,
+     "exist_max": 1129
+},
+{
+     "id": "a50",
+     "descripcion": "",
+     "precio": 965,
+     "clasificacion": "limpieza",
+     "cant_existencia": 430,
+     "exist_min": 344,
+     "exist_max": 835
+}
+]
